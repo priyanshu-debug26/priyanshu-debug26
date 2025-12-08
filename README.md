@@ -1,4 +1,4 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/055/386/044/original/sandor-hidvegi-ligier-js11-f1.gif?1666816682">
+<img src="https://media.tenor.com/MK2T7YCDUnkAAAAj/picturecross-motorsport.gif">
 
 # 💫 About Me:
 <h2>👋 Hi, I'm Priyanshu</h2><h4>💻 College Student | Aspiring Full-Stack Developer<br><br>🚀 Currently on a journey to master Full-Stack Development and build real-world projects that make an impact.<br><br>🌱 What I’m Learning<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend: Java, Spring Boot<br><br>Core Skills: C, Java, Data Structures & Algorithms<br><br>Extras I’m Exploring: Cloud Computing & DevOps<br><br>✨ Always open to collaboration, learning, and sharing knowledge.<br><br>📌 Motto: “Don’t just learn to code, code to learn.”</h4>
