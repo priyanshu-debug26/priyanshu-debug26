@@ -16,7 +16,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" alt="GitHub Contribution Snake">
+![snake gif](https://github.com/priyanshu-debug26/priyanshu-debug26/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshu-debug26&icon=0&color=0)](https://visitcount.itsvg.in)
