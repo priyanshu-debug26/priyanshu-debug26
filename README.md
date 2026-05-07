@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-pandey-a6a987339/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu__2603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshu7pandey@gmail.com)  
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,figma,firebase,git,godot,linux,ubuntu,mysql,supabase,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,figma,firebase,git,godot,linux,arch,mysql,supabase,vercel,netlify)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=priyanshu-debug26&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-debug26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
