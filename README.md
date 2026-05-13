@@ -7,15 +7,12 @@
 🌱 Currently working with Java, Spring Boot, HTML, CSS, JavaScript, and React. Doing DSA on the side and exploring Cloud & DevOps.<br><br>
 🔨 Most of my time goes into building projects that are actually useful, not just tutorial clones.<br><br>
 🎧 I like to code while listening to music.<br><br>
-✨ Always down to collaborate or talk code.<br><br>
+⚙️ Always down to collaborate or talk code.<br><br>
 🏎️ <em>"It's more of just a hobby." — Kimi Räikkönen</em>
 </h4>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshu7pandey@gmail.com)  
-
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,figma,firebase,git,godot,linux,arch,mysql,supabase,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,figma,firebase,git,godot,linux,arch,mysql,supabase,vercel,netlify,spring)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=priyanshu-debug26&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-debug26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
