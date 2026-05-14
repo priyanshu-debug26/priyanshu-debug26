@@ -12,7 +12,7 @@
 </h4>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,figma,firebase,git,godot,linux,arch,mysql,supabase,vercel,netlify,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,figma,firebase,git,github,gitlab,godot,linux,arch,mysql,supabase,vercel,netlify,spring)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=priyanshu-debug26&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-debug26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
