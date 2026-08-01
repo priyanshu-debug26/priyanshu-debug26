@@ -1,6 +1,6 @@
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=700&duration=2500&pause=1500&color=E8002D&width=500&lines=Hey%2C+I'm+Priyanshu;Tonight's+the+Night" alt="Typing SVG" /></h1>
 
-<img src="https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/ce10f0de-f3e4-4147-ae21-97ea95402885/robots_anime_mecha-anime_japan-anime_gundam_sabukaruguidetomechaanime_25.gif" width="590">
+<img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gif" width="590">
 
 <h4>
 💻 College student learning full-stack development and slowly getting good at it.<br><br>
