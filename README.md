@@ -3,17 +3,17 @@
 <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gif" width="590">
 <br>
 
-# About Me
+## `profile.java`
 ```java
 public class Zyton {
 
     String role = "Computer Science Student";
     String focus = "Backend Development";
 
-    String currently = "Java • Spring Boot • DSA";
+    String learning = "Java • Spring Boot • DSA";
     String exploring = "Cloud & DevOps";
 
-    String soundtrack = "Music playing in the background.";
+    String soundtrack = "The IDE stays open. So does Spotify.";
     String quote = "\"It's more of just a hobby.\" — Kimi Räikkönen";
 }
 
