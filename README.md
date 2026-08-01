@@ -1,18 +1,61 @@
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&weight=700&duration=2500&pause=1500&color=R9033D&width=500&lines=Hey%2C+I'm+Priyanshu;Tonight's+the+Night" alt="Typing SVG" /></h1>
 
 <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gif" width="590">
+<br>
 
-<h4>
-💻 College student learning full-stack development and slowly getting good at it.<br><br>
-🌱 Currently working with Java, Spring Boot, HTML, CSS, JavaScript, and React. Doing DSA on the side and exploring Cloud & DevOps.<br><br>
-🔨 Most of my time goes into building projects that are actually useful, not just tutorial clones.<br><br>
-🎧 I like to code while listening to music.<br><br>
-⚙️ Always down to collaborate or talk code.<br><br>
-🏎️ <em>"It's more of just a hobby." — Kimi Räikkönen</em>
-</h4>
+# About Me
+```java
+public class Zyton {
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,figma,firebase,git,github,gitlab,godot,linux,arch,mysql,supabase,vercel,netlify,spring,mongodb)](https://skillicons.dev)
+    String role = "Computer Science Student";
+    String focus = "Backend Development";
+
+    String currently = "Java • Spring Boot • DSA";
+    String exploring = "Cloud & DevOps";
+
+    String soundtrack = "Music playing in the background.";
+    String quote = "\"It's more of just a hobby.\" — Kimi Räikkönen";
+}
+
+Zyton me = new Zyton();
+```
+
+<br>
+
+# 💻 Tech Stack
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,c,cpp" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+### 🚀 Backend
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase,supabase" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma" />
+
+</td>
+
+<td width="48%" valign="top">
+
+### 🐧 Environment
+<img src="https://skillicons.dev/icons?i=linux,arch" />
+
+### 🌍 Deployment
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+### 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=godot" />
+
+</td>
+</tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=priyanshu-debug26&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-debug26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
